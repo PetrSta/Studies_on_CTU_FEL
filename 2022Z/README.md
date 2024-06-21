@@ -9,9 +9,9 @@ Algorithmization(JAVA) and Operating systems(BASH, C). <br>
 ## ALG - Algorithmization
 This subject has some freedom in language usage, I myself used JAVA. Objective is to create effective algorithms for given problems. <br>
 <u>
-Assignemtns: <br>
+Assignments: <br>
 </u>
-Assignements in this subject are not easily descibed. Currently working on a way to do so. <br>
+Assignments in this subject are not easily described. Currently working on a way to do so. <br>
 <!--- 
 [HW01] <br>
 [HW02] <br>
@@ -29,17 +29,17 @@ These are: <br>
 [HW04] nd.c, nd.h, nsd.c, nsd.h, nsd_main.c <br>
 [HW06] factory.c -> everything except cmd condition branches <br>
 [HW08] hexconv.c -> only some parts were added <br>
-[HW10] ec_syscall.cc -> mostly written as part of the assignemtn -> it is only a part of NOVA core <br>
+[HW10] ec_syscall.cc -> mostly written as part of the assignment -> it is only a part of NOVA core <br>
 [HW11] ec_syscall.cc -> -||- [HW10], mem_alloc.c -> syscall2, nbrk were already included <br>
 <u>
-Assignemtns: <br>
+Assignments: <br>
 </u>
-*** Some assignements in this subject are not easily descibed. Currently working on a way to do so. *** <br>
+*** Some assignments in this subject are not easily described. Currently working on a way to do so. *** <br>
 [HW02] Create a BASH script which loads PATH to file, depending on the file type it writes out information about it. <br>
 [HW03] Create a BASH script which depending on given switch acts accordingly. Includes file searching and text editing. <br>
 [HW04] Create a C program using forks and pipes accordingly. <br>
 [HW05] Create a C program with prod-cons using semaphores. <br>
-[HW06] Create a C program - working factory - synchonization using conditional variables. <br>
+[HW06] Create a C program - working factory - synchronization using conditional variables. <br>
 [HW08] Create a C program which loads number inputs and writes them in hexadecimal. Do NOT use any standard libraries. <br>
 [HW10] Implement nbrk in NOVA. <br>
 [HW11] Implement malloc in NOVA. <br>
