@@ -1,4 +1,4 @@
-# 2021Z
+<h1>2021Z</h1>
 <p>
 This file contains codes from winter of 2021. 
 In this semester you can find 2 subjects: <br>
@@ -6,7 +6,7 @@ Procedural programming(C) and Problem solving and games(Python).
 </p>
 
 <p>
-## PRP - Procedural programming
+<h2>PRP - Procedural programming</h2>
 This is the first programming subject teaching basic habits for coding and basic of C programming language. <br>
 *** Some of the assignments include code provided by school. *** <br>
 These are: <br>
@@ -30,7 +30,7 @@ Assignments: <br>
 </p>
 
 <p>
-### RPH - Problem solving and games.
+<h2>RPH - Problem solving and games.</h2>
 This is subject for problem solving and simple games. 
 <u>
 Assignments: <br>
