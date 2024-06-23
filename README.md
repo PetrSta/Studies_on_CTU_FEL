@@ -17,5 +17,5 @@ Because of this I wont share details for the taks. I have links to them stored l
 </p>
 
 <p>
-For my work from summer of 2024 you can visit this website: https://cent.felk.cvut.cz/courses/PGR/archives/2023-2024/S-FEL/stankpe4/. It is archive of semesteral works from PGR (programming of graphics). The programming is done in OpenGL using framework provided by school.
+For my work from summer of 2024 you can visit this website: https://cent.felk.cvut.cz/courses/PGR/archives/2023-2024/S-FEL/stankpe4/. <br> It is archive of semesteral works from PGR (programming of graphics). The programming is done in OpenGL using framework provided by school.
 </p>
