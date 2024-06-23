@@ -1,19 +1,18 @@
-# 2023L
+<h1>2023L</h1>
 <p>
-This file contains codes from summer of 2023. 
+This file contains codes from summer of 2023. <br>
 In this semester you can find 4 subjects: <br>
 Database systems(SQL), Optimalization(Matlab), Parallel and distributed calculations(C++, JAVA) and Basics of artificial intelligence (Python). <br>
 </p>
 
 <p>
-## DBS - Database systems
+<h2>DBS - Database systems</h2>
 This subject teaches basics of SQL and database design. <br>
 <!--- Přepsat po přidání kódu --->
 Most of the assignments were submitted as PDF files with code in them. The code itself will be added in separate file. <br>
 They are also all part of semestral work -> designing and creating database. <br>
-<u>
-Assignments: <br>
-</u>
+
+<h3><ins>Assignments:</ins></h3> <br>
 <!--- Přidat kód databáze --->
 [HW01] Create conceptual ER model. <br>
 [HW02] Transform the conceptual model from HW01 into relational model. <br>
@@ -23,11 +22,10 @@ Assignments: <br>
 </p>
 
 <p>
-### OPT - Optimalization.
+<h2>OPT - Optimalization.</h2>
 This subject is focused on optimalization of different mathematical calculations. <br>
-<u>
-Assignments: <br>
-</u>
+
+<h3><ins>Assignments:</ins></h3> <br>
 *** Assignments in this subject are not easily described. Currently working on a way to do so. *** <br>
 <!--- 
 [HW01] <br>
@@ -40,7 +38,7 @@ Assignments: <br>
 </p>
 
 <p>
-#### PDV - Parallel and distributed calculations.
+<h2>PDV - Parallel and distributed calculations.</h2>
 This subject teaches parallelizationy and distribution of calculations on computers. <br>
 *** Some of the assignments include code provided by school. *** <br>
 These are: <br>
@@ -53,9 +51,8 @@ These are: <br>
 [HW07] ExclusionPrimitive.java was already created without functionality. <br>
 [SEM01] Functions were already created, but without functionality. <br>
 [SEM02] ClusterProcess.java was already created without functionality. <br>
-<u>
-Assignments: <br>
-</u>
+
+<h3><ins>Assignments:</ins></h3> <br>
 [HW01] Parallel producent - consumer program. <br>
 [HW02] Parallel sum of vectors. <br>
 [HW03] Parallel binary search tree. <br>
@@ -68,16 +65,15 @@ Assignments: <br>
 </p>
 
 <p>
-##### ZUI - Basics of artificial intelligence.
+<h2>ZUI - Basics of artificial intelligence.</h2>
 This subject teaches basics of artificial intelligence. <br>
 *** Some of the assignments include code provided by school. *** <br>
 These are: <br>
 [HW01] Main function was already written. <br>
 [HW02] Main function was already written. <br>
 [HW03] Main function was already written. <br>
-<u>
-Assignments: <br>
-</u>
+
+<h3><ins>Assignments:</ins></h3> <br>
 [HW01] A* algorithm with heuristics. <br>
 [HW02] Q-learning. <br>
 [HW03] Montecarlo tree search. <br>

@@ -1,8 +1,8 @@
 <h1>2021Z</h1>
 <p>
-This file contains codes from winter of 2021. 
+This file contains codes from winter of 2021. <br>
 In this semester you can find 2 subjects: <br>
-Procedural programming(C) and Problem solving and games(Python).
+Procedural programming(C) and Problem solving and games(Python). <br>
 </p>
 
 <p>
@@ -14,6 +14,7 @@ All makefiles. <br>
 [HW08] queue.h <br>
 [HW09] most of graph.h, graph_creator.c, bin2txt.c, txt2bin.c <br>
 [HW10] most of the code was already provided, function pq_update was changed and implementation of dijkstra.h was changed <br>
+
 <h3><ins>Assignments:</ins></h3> <br>
 [HW01] Loading of input (2 numbers), checking if input is valid. Then printing output using input values. <br>
 [HW02] Similar to HW01 but now including random amount of numbers on input. <br>
@@ -30,6 +31,7 @@ All makefiles. <br>
 <p>
 <h2>RPH - Problem solving and games.</h2>
 This is subject for problem solving and simple games. <br>
+
 <h3><ins>Assignments:</ins></h3> <br>
 [HW02] Implementation of vector multiplication. <br>
 [HW03] Implement testing according to given rules. <br>

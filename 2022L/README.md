@@ -1,29 +1,26 @@
-# 2022L
+ <h1>2022L</h1>
 <p>
-This file contains codes from summer of 2022. 
+This file contains codes from summer of 2022. <br>
 In this semester you can find 2 subjects: <br>
-Computer architecture and Programming in java(JAVA).
+Computer architecture and Programming in java(JAVA). <br>
 </p>
 
 <p>
-## APO - computer architecture
-This subject is about principles behind computers, processors and assembler.
-<u>
-Assignments: <br>
-</u>
+<h2>APO - computer architecture</h2>
+This subject is about principles behind computers, processors and assembler. <br>
+
+<h3><ins>Assignments:</ins></h3> <br>
 [Cache] Implementation of convolution for pixels - calculating pixels as weighted result of neighbouring pixels. <br>
 </p>
 
 <p>
-### PJV - programming in java
-This subject teaches basic of OOP (object-oriented programming) and Java.
+<h2>PJV - programming in java</h2>
+This subject teaches basic of OOP (object-oriented programming) and Java. <br>
 *** Some of the assignments include code provided by school. *** <br>
 These are: <br>
 [HW02] TextIO.java <br>
 
-<u>
-Assignments: <br>
-</u>
+<h3><ins>Assignments:</ins></h3> <br>
 [HW01] Simple calculator, operation is selected first then operands are given. <br>
 [HW02] Calculation of average value and standard deviation from sequence of numbers. <br>
 [HW03] Circular array queue implementation. <br>
