@@ -14,8 +14,7 @@ All makefiles. <br>
 [HW08] queue.h <br>
 [HW09] most of graph.h, graph_creator.c, bin2txt.c, txt2bin.c <br>
 [HW10] most of the code was already provided, function pq_update was changed and implementation of dijkstra.h was changed <br>
-<br>
-<u>Assignments:</u> <br>
+<ins>Assignments:</ins> <br>
 [HW01] Loading of input (2 numbers), checking if input is valid. Then printing output using input values. <br>
 [HW02] Similar to HW01 but now including random amount of numbers on input. <br>
 [HW03] Load input of 2 number (width and height) and then print house of that dimension according to given rules. <br>
@@ -31,8 +30,7 @@ All makefiles. <br>
 <p>
 <h2>RPH - Problem solving and games.</h2>
 This is subject for problem solving and simple games. <br>
-<br>
-<u>Assignments:</u> <br>
+<ins>Assignments:</ins> <br>
 [HW02] Implementation of vector multiplication. <br>
 [HW03] Implement testing according to given rules. <br>
 [Prisoner's_dilemma_1] Implementation of player for Prisoner's_dilemma game. <br>
