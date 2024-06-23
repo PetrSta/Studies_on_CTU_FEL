@@ -26,15 +26,12 @@ They are also all part of semestral work -> designing and creating database. <br
 This subject is focused on optimalization of different mathematical calculations. <br>
 
 <h3><ins>Assignments:</ins></h3> <br>
-*** Assignments in this subject are not easily described. Currently working on a way to do so. *** <br>
-<!--- 
-[HW01] <br>
-[HW02] <br>
-[HW03] <br>
-[HW04] <br>
-[HW05] <br>
-[HW06] <br>
---->
+[HW01] Least squares method. <br>
+[HW02] Least squares method. <br>
+[HW03] Principal component analysis. <br>
+[HW04] Random sample consensus. <br>
+[HW05] Non-linear least squares. <br>
+[HW06] Linear programming. <br>
 </p>
 
 <p>
