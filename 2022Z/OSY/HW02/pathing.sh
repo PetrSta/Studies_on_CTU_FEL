@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#TODO Check exit values
 saveOutput=0
 errorLineFound=0
 filesToSave=()

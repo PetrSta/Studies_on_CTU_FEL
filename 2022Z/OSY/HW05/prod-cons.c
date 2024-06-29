@@ -5,8 +5,6 @@
 #include <semaphore.h>
 #include "linkedList.c"
 
-//TODO use global variable for index
-
 int exit_value = 0;
 int numberOfThreads;
 pthread_mutex_t listMutex;
@@ -50,7 +48,6 @@ void* consumerThread(void* arg) {
     int amountOfWords;
     char* word;
 
-    //TODO find end condition -> currently only tmp condition
     while(1) {
 
         sem_wait(&semList);

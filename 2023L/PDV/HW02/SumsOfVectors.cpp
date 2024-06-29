@@ -53,7 +53,6 @@ void sumsOfVectors_omp_dynamic(const vector<vector<int8_t>> &data, vector<long> 
     // nevime predem, jak dlouho budou jednotlive vypocty trvat. Dani za to je vyssi
     // rezie pri zjistovani indexu 'i', ktery ma vlakno v dane chvili zpracovavat.
 
-    //TODO too slow -> no idea
     #pragma omp parallel for schedule(dynamic)
     for(unsigned long i = 0; i < data.size(); i++) {
         long tmpResult = 0;
@@ -79,7 +78,6 @@ void sumsOfVectors_omp_shuffle(const vector<vector<int8_t>> &data, vector<long> 
     // indexu) a std::random_shuffle(...), ktera zajisti nahodne prohazeni prvku.
 
     // shuffle start
-    //TODO too slow possible replace with std::shuffle ???, range-based loop maybe?
     vector<int> indexes(data.size());
     std::iota(indexes.begin(), indexes.end(), 0);
     std::random_shuffle(indexes.begin(), indexes.end());

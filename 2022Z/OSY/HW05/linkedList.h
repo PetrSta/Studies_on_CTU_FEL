@@ -23,7 +23,6 @@ node_t* pop() {
     }
     //save popped node to return it
     node_t *poppedElement = tail;
-    //TODO check if this can be used to end threads as condition
     //if head was last element in list, we no longer have any list
     // -> destroy head and tail to force future pops to create new linked list
     if(head->next == NULL) {

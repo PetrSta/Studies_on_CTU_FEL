@@ -14,7 +14,6 @@ public class TransactionsJPA {
         this.entityManager = entityManager;
     }
 
-    // TODO finish this
     public void addNewEmployeeInfo(Person newPerson, Employee newEmployee, Phone newPhone) {
         System.out.println("\n|| Starting transaction: \"addNewEmployeeInfo\" ||");
         EntityTransaction entityTransaction = entityManager.getTransaction();

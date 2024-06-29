@@ -1,12 +1,5 @@
 package alg;
 
-//TODO cant ignore line -> in some solutions empty line can be part of solution in the middle,
-// for some reason this solution cant find this
-
-
-//TODO add if condition for situations where there is not enough lines for solution
-// -> for example if first station is placed on line 3 of 4 and we need 3 stations
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
