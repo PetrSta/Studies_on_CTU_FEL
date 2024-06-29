@@ -1,0 +1,15 @@
+﻿<Window x:Class="IUR_TASK1.DuplicateError_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IUR_TASK1"
+        mc:Ignorable="d"
+        Title="ERROR#42" Height="250" Width="250">
+    <Grid>
+        <Label Content="This city is already in &#xD;&#xA;the list.&#xD;&#xA;" HorizontalAlignment="Center" Width="200" Height="100
+" Margin="0,5,0,38" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+        <Button Content="OK" Margin="30,74,30,15" Width="60" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="20" Click="Button_Click"/>
+
+    </Grid>
+</Window>

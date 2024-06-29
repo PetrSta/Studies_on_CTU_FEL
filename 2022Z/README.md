@@ -10,14 +10,12 @@ Algorithmization(JAVA) and Operating systems(BASH, C). <br>
 This subject has some freedom in language usage, I myself used JAVA. Objective is to create effective algorithms for given problems. <br>
 
 <h3><ins>Assignments:</ins></h3> <br>
-Assignments in this subject are not easily described. Currently working on a way to do so. <br>
-<!--- 
-[HW01] <br>
-[HW02] <br>
-[HW03] <br>
-[HW04] <br>
-[HW07] <br>
---->
+<!--- Description of assignments is succinct because otherwise each would need multiple lines --->
+[HW01] Simulation of robots lighting coridors. <br>
+[HW02] Finding best placement in a grid with restrictions. <br>
+[HW03] Searching tree data structure. <br>
+[HW04] Pathfinding in a grid. <br>
+[HW07] Pathfinding in graph. <br>
 </p>
 
 <p>

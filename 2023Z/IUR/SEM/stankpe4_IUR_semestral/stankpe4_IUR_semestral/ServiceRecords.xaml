@@ -1,0 +1,34 @@
+﻿<Window x:Class="SemesterWork___car_data_database.ServiceRecords"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SemesterWork___car_data_database"
+        xmlns:models="clr-namespace:SemesterWork___car_data_database.Models"
+        xmlns:items="clr-namespace:SemesterWork___car_data_database.CustomItems"
+        mc:Ignorable="d"
+        Title="ServiceRecords" Height="420" Width="400">
+
+    <Window.DataContext>
+        <models:ServiceRecordsViewModel/>
+    </Window.DataContext>
+    
+    <DockPanel>
+        <Grid DockPanel.Dock="Top">
+            <ListBox Name="ServiceListBox" Width="220" Height="290" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0"
+            ItemsSource="{Binding ServiceList}" SelectedIndex="{Binding SelectedServiceDataIndex}" SelectedItem="{Binding SelectedServiceData}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <items:ServiceItem Date="{Binding Date}" RecordTag="{Binding RecordTag}" DoubleClickHandler="DoubleClick"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <Button Name="ServiceAddButton" Content="New" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="260,100,0,0" Click="ServiceAddButtonClick" ToolTip="Create new records to add"/>
+            <Button Name="ServiceRemoveButton" Content="Remove" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="260,200,0,0" Command="{Binding RemoveCommand}" ToolTip="Remove selected record"/>
+            <Button Name="OkButton"  Content="OK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,330,0,0" Click="OkButtonClick" Command="{Binding OkCommand}" ToolTip="Save changes and close window"/>
+            <Button Name="CancelButton" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="230,330,0,0" Click="CancelButtonClick" ToolTip="Revert changes and close the window"/>
+        </Grid>
+        
+    </DockPanel>
+</Window>

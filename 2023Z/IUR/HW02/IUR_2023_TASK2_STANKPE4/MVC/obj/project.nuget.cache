@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHWb0wB/itzZm+PDdlzB2SeiAJLinhrOtTg5eGpN0tfUN201xCB1prq1KyMMXNumhE6KPCr4mp8wiq9AD4zKFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\Documents\\IUR\\TASK_2\\IUR_P03_practice_template\\MVC\\MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\weathernet.netstandard\\1.1.0\\weathernet.netstandard.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,70 @@
+﻿<Window x:Class="SemesterWork___car_data_database.ServiceRecordsAddition"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:local="clr-namespace:SemesterWork___car_data_database"
+        xmlns:models="clr-namespace:SemesterWork___car_data_database.Models"
+        xmlns:support="clr-namespace:SemesterWork___car_data_database.Support"
+        mc:Ignorable="d"
+        Title="ServiceRecordsAddition" Width="550" Height="540">
+
+    <Window.Resources>
+        <support:ReverseBoolConverter x:Key="ReverseBool"/>
+    </Window.Resources>
+    
+    <Window.DataContext>
+        <models:ServiceRecordsDataModel/>
+    </Window.DataContext>
+    
+    <!--can IsChecked be binded into model and also reversed?-->
+    <DockPanel>
+        <Grid DockPanel.Dock="Top">
+            <Label Name="GreenCardLabel" Content="Green card yes/no" Height="35" Width="160" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" ToolTip="Car insuracne"/>
+            <CheckBox Name="GreenCardCheckBox" VerticalAlignment="Top" HorizontalAlignment="Left" IsChecked="{Binding GreenCard, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="180,25,0,0" IsEnabled="{Binding ElementName=STKCheckBox, Path=IsChecked, Converter={StaticResource ReverseBool}}" ToolTip="Car insuracne"/>
+            <Label Name="ServiceRecordTagLabel" Content="Record tag" Height="35" Width="100" HorizontalAlignment="left" VerticalAlignment="Top" Margin="310,20,0,0" ToolTip="Text showed in Service records list"/>
+            <TextBox Name="ServiceRecordTagTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="410,20,0,0" Style="{StaticResource MandatoryFill}">
+                <TextBox.Text>
+                    <Binding Path="RecordTag" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <support:ServiceTagValidation ValidatesOnTargetUpdated="True" ValidationStep="UpdatedValue"/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            
+        </Grid>
+
+        <Grid DockPanel.Dock="Top">
+            <Label Name="STKLabel" Content="STK yes/no" Height="35" Width="160" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" ToolTip="Vehicle inspection"/>
+            <CheckBox Name="STKCheckBox" VerticalAlignment="Top" HorizontalAlignment="Left" IsChecked="{Binding STK, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="180,25,0,0" IsEnabled="{Binding ElementName=GreenCardCheckBox, Path=IsChecked, Converter={StaticResource ReverseBool}}" ToolTip="Vehicle inspection"/>
+            <Label Name="DateLabel" Content="Date" Height="30" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="310,20,0,0" ToolTip="Using format dd.mm.yy (day, month, year) if none is given -> sets itself to current day"/>
+            <TextBox Name="DateTextBox" Text="{Binding Date, Mode=TwoWay, StringFormat='dd.MM.yyyy'}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="410,20,0,0" Style="{StaticResource MandatoryFill}" ToolTip="Using format dd.mm.yy (day, month, year) if none is given -> sets itself to current day"/>
+        </Grid>
+
+        <Grid DockPanel.Dock="Top">
+            <Label Name="ServiceFinishedLabel" Content="Finished yes/no" Height="35" Width="160" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" ToolTip="Yes if service was finished"/>
+            <CheckBox Name="ServiceFinishedCheckBox" VerticalAlignment="Top" HorizontalAlignment="Left" IsChecked="{Binding ServiceFinished, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="180,25,0,0" ToolTip="Yes if service was finished"/>
+            <Label Name="PriceLabel" Content="Price" Height="30" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="310,20,120,0" ToolTip="Cost of the service"/>
+            <TextBox Name="PriceTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="410,20,0,0" Style="{StaticResource OptinalFill}">
+                <TextBox.Text>
+                    <Binding Path="Price" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <support:PriceValidation/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+        </Grid>
+
+        <Grid DockPanel.Dock="Top">
+            <Label Name="ServiceNotesLabel" Content="Service notes" Height="30" Width="160" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" ToolTip="Additional information"/>
+            <TextBox Name="ServiceNotesTextBox" Text="{Binding ServiceNotes, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="200" Width="490" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,50,0,0" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" TextWrapping="Wrap" Style="{StaticResource BasicTextBoxStyle}" ToolTip="Additional information"/>
+        </Grid>
+
+        <Grid DockPanel.Dock="Top">
+            <Button Name="ConfirmServiceAdditionButton" Content="OK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="85,20,0,20" Click="OkButtonClick" Command="{Binding OkCommand}" ToolTip="Save the record and close window"/>
+            <Button Name="CancelServiceAdditionButton" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="345,20,85,20" Click="CancelButtonClick" ToolTip="Close window without saving the record"/>
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,56 @@
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.exe
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.deps.json
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.runtimeconfig.json
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.dll
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.pdb
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database_MarkupCompile.cache
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database_MarkupCompile.lref
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.g.resources
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.AssemblyInfoInputs.cache
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.AssemblyInfo.cs
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.dll
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\refint\SemesterWork - car data database.dll
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.pdb
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.genruntimeconfig.cache
+C:\Users\Petr\source\repos\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\ref\SemesterWork - car data database.dll
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\FuelConsumtionRecordAddition.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\FuelConsumtionRecords.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\ServiceRecords.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\ServiceRecordsAddition.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database_MarkupCompile.cache
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database_MarkupCompile.lref
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.exe
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.deps.json
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.runtimeconfig.json
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.dll
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\bin\Debug\net6.0-windows\SemesterWork - car data database.pdb
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\App.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\FuelConsumtionRecordAddition.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\FuelConsumtionRecords.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\ServiceRecords.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\ServiceRecordsAddition.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.g.resources
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.AssemblyInfoInputs.cache
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.AssemblyInfo.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.dll
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\refint\SemesterWork - car data database.dll
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.pdb
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\SemesterWork - car data database.genruntimeconfig.cache
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\ref\SemesterWork - car data database.dll
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\CustomItems\FuelItem.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\CustomItems\FuelItem.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\CustomItems\ServiceItem.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\CustomItems\ServiceItem.baml
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\CustomItems\RemindersItem.g.cs
+C:\Users\Petr\Documents\IUR\SemesterWork - car data database\SemesterWork - car data database\obj\Debug\net6.0-windows\CustomItems\RemindersItem.baml

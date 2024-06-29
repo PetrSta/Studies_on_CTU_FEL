@@ -1,0 +1,69 @@
+﻿<Window x:Class="SemesterWork___car_data_database.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SemesterWork___car_data_database"
+        xmlns:models="clr-namespace:SemesterWork___car_data_database.Models"
+        xmlns:support="clr-namespace:SemesterWork___car_data_database.Support"
+        xmlns:items="clr-namespace:SemesterWork___car_data_database.CustomItems"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="370" Width="520">
+
+    <Window.Resources>
+        <support:UnitsFormatConverter x:Key="UnitsFormatConverter"/>
+        <support:ValidYearConverter x:Key="ValidYear"/>
+    </Window.Resources>
+    
+    <Window.DataContext>
+        <models:MainWindowViewModel/>
+    </Window.DataContext>
+    
+    <DockPanel>
+        <Grid DockPanel.Dock="Top">
+            <Label Name="AverageFuelConsumtionLabel" Content="Avg. cons." Height="35" Width="110" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" ToolTip="Average consumption for the data given (l)"/>
+            <TextBox x:Name="AverageFuelConsumptionTextBox" Text="{Binding AverageConsumption, Mode=TwoWay, Converter={StaticResource UnitsFormatConverter}, ConverterParameter=l}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="130,20,0,0" Style="{StaticResource BasicTextBoxStyle}" IsReadOnly="True" ToolTip="Average consumption for the data given (l)"/>
+            <Button Name="FuelConsumptionButton" Content="Fuel cons." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,60,0,0" Click="FuelConsumtionButtonClick" ToolTip="Opens window with fuel consumtion records and option to add / remove the records"/>
+
+            <Label Name="SpzLabel" Content="SPZ" Height="30" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="260,20,0,0" ToolTip="License plate / Numberplate"/>
+            <TextBox x:Name="SpzTextBox" Text="{Binding SPZ, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="380,20,0,0" Style="{StaticResource OptinalFill}" ToolTip="License plate / Numberplate"/>
+        </Grid>
+            
+        <Grid DockPanel.Dock="Top">
+            <ListBox x:Name="ServiceListBox" Height="150" Width="230" Margin="20,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" ToolTip="Shows reminders for service tagged as unfinished / reminders for expiring Green card / STK"
+            ItemsSource="{Binding RemindersList}" SelectedIndex="{Binding SelectedListIndex}" SelectedItem="{Binding SelectedRemindersData}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <items:RemindersItem Date="{Binding Date}" ReminderTag="{Binding RecordTag}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <Label Name="CarModel" Content="Car model" Height="35" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="260,10,0,0" ToolTip="Name of the car example: Octavia"/>
+            <TextBox x:Name="CarModelTextBox" Text="{Binding CarModel, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="380,10,0,0" Style="{StaticResource OptinalFill}" ToolTip="Name of the car example: Octavia"/>
+
+            <Label Name="Manufacturer" Content="Manufacturer" Height="35" Width="120" HorizontalAlignment="left" VerticalAlignment="Top" Margin="260,70,0,0" ToolTip="Name of the manufacturer example: Škoda"/>
+            <TextBox x:Name="ManufacturerTextBox" Text="{Binding Manufacturer, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="380,70,0,0" Style="{StaticResource OptinalFill}" ToolTip="Name of the manufacturer example: Škoda"/>
+
+            <Label Name="CarMileage" Content="Car mileage" Height="35" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="260,130,0,0" ToolTip="Distance of traveled by car over its life in KM"/>
+            <TextBox x:Name="CarMileageTextBox" Text="{Binding CarMileage, Mode=TwoWay, Converter={StaticResource UnitsFormatConverter}, ConverterParameter=km}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="380,130,0,0" Style="{StaticResource OptinalFill}"/>
+        </Grid>
+
+        <Grid DockPanel.Dock="Top">
+            <Button x:Name="ServiceButton" Content="Service" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,20,0,0" Click="SeviceButtonClick" Cursor="Hand" 
+            ToolTip="Opens service record window with option to add / remove records (Model year needs to be filled for usage)" IsEnabled="{Binding ElementName=ModelYearTextBox, Path=Text, Converter={StaticResource ValidYear}}"/>
+
+            <Label Name="ModelYear" Content="Model year" Height="35" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="260,20,0,0" ToolTip="Production year of the car"/>
+            <TextBox x:Name="ModelYearTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="380,20,0,0" Style="{StaticResource MandatoryFill}">
+                <TextBox.Text>
+                    <Binding Path="ModelYear" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <support:ModelYearValidation ValidatesOnTargetUpdated="True"></support:ModelYearValidation>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox> 
+            
+        </Grid>
+    </DockPanel>
+</Window>

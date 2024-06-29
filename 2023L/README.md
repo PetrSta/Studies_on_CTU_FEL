@@ -8,12 +8,11 @@ Database systems(SQL), Optimalization(Matlab), Parallel and distributed calculat
 <p>
 <h2>DBS - Database systems</h2>
 This subject teaches basics of SQL and database design. <br>
-<!--- Přepsat po přidání kódu --->
-Most of the assignments were submitted as PDF files with code in them. The code itself will be added in separate file. <br>
+Most of the assignments were submitted as PDF files with code in them. <br>
 They are also all part of semestral work -> designing and creating database. <br>
+Sadly I cant upload the database filled with data since I cannot find it atm.. <br>
 
 <h3><ins>Assignments:</ins></h3> <br>
-<!--- Přidat kód databáze --->
 [HW01] Create conceptual ER model. <br>
 [HW02] Transform the conceptual model from HW01 into relational model. <br>
 [HW03] Transform the relational model from HW02 into ER model and into resulting SQL database and queries. <br>

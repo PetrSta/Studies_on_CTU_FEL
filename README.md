@@ -13,9 +13,10 @@ Main purpose of this repository is to store codes for homeworks from my studies.
 <!---
 Přepsat po přidání složitějších zadání
 --->
-Because of this I wont share details for the taks. I have links to them stored locally. For simple tasks I will write them out. For more complex tasks I am currently thinking of a easier sollution. <br>
+Because of this I wont share details for the taks. I have links to them stored locally. <br>
 </p>
 
 <p>
-For my work from summer of 2024 you can visit this website: https://cent.felk.cvut.cz/courses/PGR/archives/2023-2024/S-FEL/stankpe4/. <br> It is archive of semesteral works from PGR (programming of graphics). The programming is done in OpenGL using framework provided by school.
+Since the semestral work from summer of 2024 is too big you can you can visit this website for it: https://cent.felk.cvut.cz/courses/PGR/archives/2023-2024/S-FEL/stankpe4/. <br> 
+It is archive of semesteral works from PGR (programming of graphics). The programming is done in OpenGL using framework provided by school. <br>
 </p>

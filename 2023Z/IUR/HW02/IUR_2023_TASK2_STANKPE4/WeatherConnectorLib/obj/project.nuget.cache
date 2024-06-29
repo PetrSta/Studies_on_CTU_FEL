@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "geYdH0mBbpPG+S3+eMaK22hAsbwyTBXr9V3Y/qfxSLGldWTI1RSzc8ZWP8XpPryUacl1SukV6PBK0Pi+YS8i6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\WeatherConnectorLib\\WeatherConnectorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petr\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\petr\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\petr\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\petr\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\petr\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\petr\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\petr\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\petr\\.nuget\\packages\\weathernet.netstandard\\1.1.0\\weathernet.netstandard.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
