@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\TASK_2_2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\TASK_2_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\TASK_2_2.csproj",
+        "projectName": "TASK_2_2",
+        "projectPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\TASK_2_2.csproj",
+        "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\obj\\",
+=======
     "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\TASK_2_2.csproj": {}
   },
   "projects": {
@@ -12,12 +25,17 @@
         "projectPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\TASK_2_2.csproj",
         "packagesPath": "C:\\Users\\petr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P04_homework_template\\obj\\",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\Petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +86,11 @@
               "privateAssets": "none"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         }
       }
     }

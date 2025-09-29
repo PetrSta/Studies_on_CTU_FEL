@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IUR_2023_TASK1_STANKPE4
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Petr\Documents\School_work\2023Z\IUR\HW01\IUR_2023_TASK1_STANKPE4\
+=======
 build_property.ProjectDir = C:\Users\petr\Documents\Github\2023Z\IUR\HW01\IUR_2023_TASK1_STANKPE4\
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

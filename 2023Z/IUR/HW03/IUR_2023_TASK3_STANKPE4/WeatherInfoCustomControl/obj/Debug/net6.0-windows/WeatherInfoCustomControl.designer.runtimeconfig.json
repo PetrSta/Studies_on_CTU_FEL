@@ -12,7 +12,11 @@
       }
     ],
     "additionalProbingPaths": [
+<<<<<<< HEAD
+      "C:\\Users\\macikmir\\.nuget\\packages",
+=======
       "C:\\Users\\petr\\.nuget\\packages",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

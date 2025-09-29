@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\",
+=======
   "WorkspaceRootPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
   "Documents": [],
   "DocumentGroupContainers": [
     {

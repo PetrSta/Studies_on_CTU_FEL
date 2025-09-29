@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IUR_Task3_assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e708d2f96492428cf25d40cb21c8aa2ff4c83be")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a6fb3889083c15419cefc1313a5593964ee0be4")]
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 [assembly: System.Reflection.AssemblyProductAttribute("IUR_Task3_assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IUR_Task3_assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

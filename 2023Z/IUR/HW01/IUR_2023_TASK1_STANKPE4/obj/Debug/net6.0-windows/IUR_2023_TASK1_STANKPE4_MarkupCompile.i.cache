@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
+C:\Users\Petr\Documents\School_work\2023Z\IUR\HW01\IUR_2023_TASK1_STANKPE4\obj\Debug\net6.0-windows\
+=======
 C:\Users\petr\Documents\Github\2023Z\IUR\HW01\IUR_2023_TASK1_STANKPE4\obj\Debug\net6.0-windows\
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 IUR_2023_TASK1_STANKPE4
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
+C:\Users\Petr\Documents\School_work\2023Z\IUR\HW01\IUR_2023_TASK1_STANKPE4\App.xaml
+41453389800
+
+8989203952
+196200543259
+=======
 C:\Users\petr\Documents\Github\2023Z\IUR\HW01\IUR_2023_TASK1_STANKPE4\App.xaml
 41453389800
 
 8989203952
 1961987032269
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 DuplicateError_Window.xaml;MainWindow.xaml;ManageCities.xaml;OpenWeatherAPI_Error_Window.xaml;
 
 True

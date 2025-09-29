@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj",
+        "projectName": "IUR_Task3_assignment",
+        "projectPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj",
+        "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\obj\\",
+=======
     "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj": {}
   },
   "projects": {
@@ -12,12 +25,17 @@
         "projectPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj",
         "packagesPath": "C:\\Users\\petr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\obj\\",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\Petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +51,13 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
+<<<<<<< HEAD
+              "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj": {
+                "projectPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj"
+=======
               "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj": {
                 "projectPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj"
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
               }
             }
           }
@@ -78,6 +101,20 @@
               "privateAssets": "none"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj",
+        "projectName": "WeatherInfoCustomControl",
+        "projectPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj",
+        "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\obj\\",
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
@@ -90,12 +127,17 @@
         "projectPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj",
         "packagesPath": "C:\\Users\\petr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\obj\\",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\Petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -146,7 +188,11 @@
               "privateAssets": "none"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         }
       }
     }

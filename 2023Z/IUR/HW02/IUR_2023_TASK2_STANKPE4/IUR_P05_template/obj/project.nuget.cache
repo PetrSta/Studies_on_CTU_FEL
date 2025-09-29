@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "PB/mDd4Z8wCOlILbsUVGl0HWxX65egSZTIvEdVZjUfXLw+RLuDf4QnFEocqxNyKAl5OL5OYrw+BL8CUbJH3KEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P05_template\\TASK_2_3.csproj",
+=======
   "dgSpecHash": "zcO+02TvczKO5U28F+8I/oKpSEkA7iWuEkIjU1NKDTuH4cfiH3GNTdAklyavc7CvWKnqhEVZvBP1fCaC6+R8ZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW02\\IUR_2023_TASK2_STANKPE4\\IUR_P05_template\\TASK_2_3.csproj",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
   "expectedPackageFiles": [],
   "logs": []
 }

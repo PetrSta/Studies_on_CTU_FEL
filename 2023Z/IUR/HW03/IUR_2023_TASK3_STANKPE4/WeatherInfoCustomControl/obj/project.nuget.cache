@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "ZBXiE+BnZYpgQFzBLaIHfkJPCykGSsPjYLGBZsTO7yeoPuuKMUFwoUiFsSDffWaYnHmFGlLHvDczsPvZZPNLUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj",
+=======
   "dgSpecHash": "mMXqqnMFvkpbVDxbjjNS2UBFp4wLLHkF6c2TBc720pWnQ8PNZMDLq9haDURNauLMNvP9bvdKiUCxss+/z48qmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\WeatherInfoCustomControl\\WeatherInfoCustomControl.csproj",
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
   "expectedPackageFiles": [],
   "logs": []
 }

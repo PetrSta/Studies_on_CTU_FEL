@@ -21,6 +21,8 @@ C:\Users\Petr\Documents\IUR\TASK_2\IUR_P03_practice_template\IUR_P04_homework_te
 C:\Users\Petr\Documents\IUR\TASK_2\IUR_P03_practice_template\IUR_P04_homework_template\obj\Debug\net6.0-windows\TASK_2_2.pdb
 C:\Users\Petr\Documents\IUR\TASK_2\IUR_P03_practice_template\IUR_P04_homework_template\obj\Debug\net6.0-windows\TASK_2_2.genruntimeconfig.cache
 C:\Users\Petr\Documents\IUR\TASK_2\IUR_P03_practice_template\IUR_P04_homework_template\obj\Debug\net6.0-windows\ref\TASK_2_2.dll
+<<<<<<< HEAD
+=======
 C:\Users\petr\Documents\Github\2023Z\IUR\HW02\IUR_2023_TASK2_STANKPE4\IUR_P04_homework_template\bin\Debug\net6.0-windows\TASK_2_2.exe
 C:\Users\petr\Documents\Github\2023Z\IUR\HW02\IUR_2023_TASK2_STANKPE4\IUR_P04_homework_template\bin\Debug\net6.0-windows\TASK_2_2.deps.json
 C:\Users\petr\Documents\Github\2023Z\IUR\HW02\IUR_2023_TASK2_STANKPE4\IUR_P04_homework_template\bin\Debug\net6.0-windows\TASK_2_2.runtimeconfig.json
@@ -45,3 +47,4 @@ C:\Users\petr\Documents\Github\2023Z\IUR\HW02\IUR_2023_TASK2_STANKPE4\IUR_P04_ho
 C:\Users\petr\Documents\Github\2023Z\IUR\HW02\IUR_2023_TASK2_STANKPE4\IUR_P04_homework_template\obj\Debug\net6.0-windows\TASK_2_2.pdb
 C:\Users\petr\Documents\Github\2023Z\IUR\HW02\IUR_2023_TASK2_STANKPE4\IUR_P04_homework_template\obj\Debug\net6.0-windows\TASK_2_2.genruntimeconfig.cache
 C:\Users\petr\Documents\Github\2023Z\IUR\HW02\IUR_2023_TASK2_STANKPE4\IUR_P04_homework_template\obj\Debug\net6.0-windows\ref\TASK_2_2.dll
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f

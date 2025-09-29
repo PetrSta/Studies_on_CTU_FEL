@@ -26,7 +26,10 @@ These are: <br>
 [HW03] Circular array queue implementation. <br>
 [HW04] Try to brute force password. It is simplified: we know exact length of password and set of characters which create the password. <br>
 [HW05] Implementation of binary tree. <br>
+<<<<<<< HEAD
+=======
 [Chess] This is the semestral work for this subject. We could choose what to do and I decided to create a chess program. I also didnt follow any tutorial to challenge myself. <br>
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 </p>
 
 <p>

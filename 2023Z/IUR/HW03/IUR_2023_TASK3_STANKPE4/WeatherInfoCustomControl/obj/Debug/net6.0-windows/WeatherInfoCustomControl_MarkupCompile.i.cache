@@ -4,7 +4,11 @@
 library
 C#
 .cs
+<<<<<<< HEAD
+C:\Users\Petr\Documents\School_work\2023Z\IUR\HW03\IUR_2023_TASK3_STANKPE4\WeatherInfoCustomControl\obj\Debug\net6.0-windows\
+=======
 C:\Users\petr\Documents\Github\2023Z\IUR\HW03\IUR_2023_TASK3_STANKPE4\WeatherInfoCustomControl\obj\Debug\net6.0-windows\
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 WeatherInfoCustomControl
 none
 false
@@ -13,7 +17,11 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 1204305769
 
 7-546823749
+<<<<<<< HEAD
+194-2005446070
+=======
 194-428966090
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 Themes\Generic.xaml;
 
 False

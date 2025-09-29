@@ -37,6 +37,11 @@ namespace IUR_P07_solved.ViewModels
             CityToBeAdded = "";
         }
 
+<<<<<<< HEAD
+        // TODO EDIT, either CityToBeAdded needs to get updated even if validation rule fails or
+        // _validationResult needs to be binded
+=======
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         private bool AddCityCanExecute(object obj)
         {
             bool cityCanBeAdded = false;

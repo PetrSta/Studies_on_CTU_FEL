@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petr\\Documents\\IUR\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral.csproj",
+      "projectUniqueName": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\SEM\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral.csproj",
       "projectName": "stankpe4_IUR_semestral",
-      "projectPath": "C:\\Users\\Petr\\Documents\\IUR\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral.csproj",
+      "projectPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\SEM\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral.csproj",
       "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petr\\Documents\\IUR\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral\\obj\\",
+      "outputPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\SEM\\stankpe4_IUR_semestral\\stankpe4_IUR_semestral\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -70,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

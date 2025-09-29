@@ -47,13 +47,21 @@ namespace IUR_TASK1 {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+<<<<<<< HEAD
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.3.0")]
+=======
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.2.0")]
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
             }
             _contentLoaded = true;
+<<<<<<< HEAD
+            System.Uri resourceLocater = new System.Uri("/TASK_2_2;V1.0.0.0;component/duplicateerror_window.xaml", System.UriKind.Relative);
+=======
             System.Uri resourceLocater = new System.Uri("/TASK_2_2;component/duplicateerror_window.xaml", System.UriKind.Relative);
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
             
             #line 1 "..\..\..\DuplicateError_Window.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -63,7 +71,11 @@ namespace IUR_TASK1 {
         }
         
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+<<<<<<< HEAD
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.3.0")]
+=======
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.2.0")]
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]

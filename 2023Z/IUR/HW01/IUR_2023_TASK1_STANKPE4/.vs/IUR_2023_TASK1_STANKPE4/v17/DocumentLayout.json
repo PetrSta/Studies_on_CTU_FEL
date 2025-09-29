@@ -1,5 +1,9 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW01\\IUR_2023_TASK1_STANKPE4\\",
+  "Documents": [],
+=======
   "WorkspaceRootPath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW01\\IUR_2023_TASK1_STANKPE4\\",
   "Documents": [
     {
@@ -31,6 +35,7 @@
       "RelativeMoniker": "D:0:0:{5FC86BD6-CBD1-4453-A69D-DAD55BAAA652}|IUR_2023_TASK1_STANKPE4.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,7 +43,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": -1,
+=======
           "SelectedChildIndex": 2,
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +56,8 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+<<<<<<< HEAD
+=======
             },
             {
               "$type": "Document",
@@ -137,6 +148,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T11:19:05.388Z",
               "EditorCaption": ""
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
             }
           ]
         },

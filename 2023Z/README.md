@@ -15,7 +15,11 @@ These are: <br>
 
 <h3><ins>Assignments:</ins></h3> <br>
 The code will not run without API keys for Open weather api. My keys were removed from the code. <br>
+<<<<<<< HEAD
+The API keys can be added for [HW01] in ManageCities.xaml.cs, MainWindow.xaml.cs. [HW02] -> TASK_2_1 model.cs. [HW03] in MainViewModel.cs. <br>
+=======
 The API keys can be added for [HW01] in ManageCities.xaml.cs, MainWindow.xaml.cs. [HW02] -> MVC / MVP model.cs. [HW03] in MainViewModel.cs. <br>
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
 [HW01] Use OpenWeatherMap API to create simple app to check weather in selected cities. Following template. <br>
 [HW02] This contains 3 parts. Part 1: create a console app for weather -> similar to HW01. Part 2: update given template according to instructions (combo box, event handler, binding). Part 3: update given template according to instructions (commands, value convertor, sliders, images). <br>
 [HW03] Implement weather cards into given template (validation rules, styles, animation). <br>

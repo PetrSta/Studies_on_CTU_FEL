@@ -1,5 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "7J7Odrwg6PxGuDQ8JREZSi5SlUfJH5s9DEv8HATy44OTDvxf6c0KRqIUpxnYQHT4lrj6FiXZhXNZ5c0PHTaGWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\Documents\\School_work\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petr\\.nuget\\packages\\weathernet.netstandard\\1.1.0\\weathernet.netstandard.1.1.0.nupkg.sha512"
+=======
   "dgSpecHash": "dck6tOooZFes0ymCgo/PT1gjvqqTeR41T7jbF8NKNcuewyJit7Cxx7KxE+0HoemRHZlQQSd2TZQVE2PbRL+riA==",
   "success": true,
   "projectFilePath": "C:\\Users\\petr\\Documents\\Github\\2023Z\\IUR\\HW03\\IUR_2023_TASK3_STANKPE4\\IUR_task3_assignment\\IUR_Task3_assignment.csproj",
@@ -12,6 +26,7 @@
     "C:\\Users\\petr\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\petr\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\petr\\.nuget\\packages\\weathernet.netstandard\\1.1.0\\weathernet.netstandard.1.1.0.nupkg.sha512"
+>>>>>>> c5e9c5389d2eb83b79f06777e62ec6551949372f
   ],
   "logs": []
 }
